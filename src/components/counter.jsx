@@ -41,7 +41,7 @@ const Counter = () => {
                 onClick={handleDecrement} 
                 className='btn btn-secondary btn-sm m-2'
             >
-                Decrement
+               
             </button>
         </React.Fragment>
     )
