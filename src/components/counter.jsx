@@ -33,7 +33,7 @@ const Counter = () => {
             </span>
             <button 
                 onClick={handleIncrement} 
-                className='btn btn-secondary btn-sm m-2'
+                
             >
                 Increment
             </button>
