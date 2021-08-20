@@ -39,7 +39,7 @@ const Counter = () => {
             </button>
             <button 
                 onClick={handleDecrement} 
-                className='btn btn-secondary btn-sm m-2'
+             
             >
                 Decrement
             </button>
